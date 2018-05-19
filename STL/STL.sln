@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vectors", "Vectors\Vectors.vcxproj", "{E84C3E68-68E4-4C36-A357-770B0BFFE2A9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorsAndMemory", "VectorsAndMemory\VectorsAndMemory.vcxproj", "{C410CC3E-3639-4036-91A3-4FF6B508167D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{E84C3E68-68E4-4C36-A357-770B0BFFE2A9}.Release|x64.Build.0 = Release|x64
 		{E84C3E68-68E4-4C36-A357-770B0BFFE2A9}.Release|x86.ActiveCfg = Release|Win32
 		{E84C3E68-68E4-4C36-A357-770B0BFFE2A9}.Release|x86.Build.0 = Release|Win32
+		{C410CC3E-3639-4036-91A3-4FF6B508167D}.Debug|x64.ActiveCfg = Debug|x64
+		{C410CC3E-3639-4036-91A3-4FF6B508167D}.Debug|x64.Build.0 = Debug|x64
+		{C410CC3E-3639-4036-91A3-4FF6B508167D}.Debug|x86.ActiveCfg = Debug|Win32
+		{C410CC3E-3639-4036-91A3-4FF6B508167D}.Debug|x86.Build.0 = Debug|Win32
+		{C410CC3E-3639-4036-91A3-4FF6B508167D}.Release|x64.ActiveCfg = Release|x64
+		{C410CC3E-3639-4036-91A3-4FF6B508167D}.Release|x64.Build.0 = Release|x64
+		{C410CC3E-3639-4036-91A3-4FF6B508167D}.Release|x86.ActiveCfg = Release|Win32
+		{C410CC3E-3639-4036-91A3-4FF6B508167D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
