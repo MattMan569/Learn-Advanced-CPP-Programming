@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="StructsAndPadding.cpp">
+    <ClCompile Include="ReadingAndWritingBinaryFiles.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
