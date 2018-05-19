@@ -36,13 +36,12 @@ int main()
 	}
 
 	cout << endl;
-
+	
 	// Range
 	for (auto const &value : strings)
 	{
 		cout << value << endl;
 	}
-
 
 
 	cout << endl;
