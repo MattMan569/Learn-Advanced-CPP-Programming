@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vectors", "Vectors\Vectors.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorsAndMemory", "VectorsAndMemory\VectorsAndMemory.vcxproj", "{C410CC3E-3639-4036-91A3-4FF6B508167D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TwoDimensionalVectors", "TwoDimensionalVectors\TwoDimensionalVectors.vcxproj", "{95B52DC0-05C6-4E07-89ED-497EC5A57CE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{C410CC3E-3639-4036-91A3-4FF6B508167D}.Release|x64.Build.0 = Release|x64
 		{C410CC3E-3639-4036-91A3-4FF6B508167D}.Release|x86.ActiveCfg = Release|Win32
 		{C410CC3E-3639-4036-91A3-4FF6B508167D}.Release|x86.Build.0 = Release|Win32
+		{95B52DC0-05C6-4E07-89ED-497EC5A57CE4}.Debug|x64.ActiveCfg = Debug|x64
+		{95B52DC0-05C6-4E07-89ED-497EC5A57CE4}.Debug|x64.Build.0 = Debug|x64
+		{95B52DC0-05C6-4E07-89ED-497EC5A57CE4}.Debug|x86.ActiveCfg = Debug|Win32
+		{95B52DC0-05C6-4E07-89ED-497EC5A57CE4}.Debug|x86.Build.0 = Debug|Win32
+		{95B52DC0-05C6-4E07-89ED-497EC5A57CE4}.Release|x64.ActiveCfg = Release|x64
+		{95B52DC0-05C6-4E07-89ED-497EC5A57CE4}.Release|x64.Build.0 = Release|x64
+		{95B52DC0-05C6-4E07-89ED-497EC5A57CE4}.Release|x86.ActiveCfg = Release|Win32
+		{95B52DC0-05C6-4E07-89ED-497EC5A57CE4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
