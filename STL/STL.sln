@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CustomObjectsAsMapKeys", "C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Multimap", "Multimap\Multimap.vcxproj", "{C738A178-9301-43EA-9772-4AB0030138DA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sets", "Sets\Sets.vcxproj", "{5609132E-44A5-413B-838B-15DE23B4D0CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{C738A178-9301-43EA-9772-4AB0030138DA}.Release|x64.Build.0 = Release|x64
 		{C738A178-9301-43EA-9772-4AB0030138DA}.Release|x86.ActiveCfg = Release|Win32
 		{C738A178-9301-43EA-9772-4AB0030138DA}.Release|x86.Build.0 = Release|Win32
+		{5609132E-44A5-413B-838B-15DE23B4D0CE}.Debug|x64.ActiveCfg = Debug|x64
+		{5609132E-44A5-413B-838B-15DE23B4D0CE}.Debug|x64.Build.0 = Debug|x64
+		{5609132E-44A5-413B-838B-15DE23B4D0CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{5609132E-44A5-413B-838B-15DE23B4D0CE}.Debug|x86.Build.0 = Debug|Win32
+		{5609132E-44A5-413B-838B-15DE23B4D0CE}.Release|x64.ActiveCfg = Release|x64
+		{5609132E-44A5-413B-838B-15DE23B4D0CE}.Release|x64.Build.0 = Release|x64
+		{5609132E-44A5-413B-838B-15DE23B4D0CE}.Release|x86.ActiveCfg = Release|Win32
+		{5609132E-44A5-413B-838B-15DE23B4D0CE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
