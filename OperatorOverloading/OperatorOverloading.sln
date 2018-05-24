@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AssignmentOperator", "Assig
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InsertionOperator", "InsertionOperator\InsertionOperator.vcxproj", "{D3BB06E2-5C99-4D27-BF59-A4AC6897B704}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ComplexNumber", "ComplexNumber\ComplexNumber.vcxproj", "{55FBD8B4-BFDA-4C76-B27B-A4F43A9FCF2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{D3BB06E2-5C99-4D27-BF59-A4AC6897B704}.Release|x64.Build.0 = Release|x64
 		{D3BB06E2-5C99-4D27-BF59-A4AC6897B704}.Release|x86.ActiveCfg = Release|Win32
 		{D3BB06E2-5C99-4D27-BF59-A4AC6897B704}.Release|x86.Build.0 = Release|Win32
+		{55FBD8B4-BFDA-4C76-B27B-A4F43A9FCF2C}.Debug|x64.ActiveCfg = Debug|x64
+		{55FBD8B4-BFDA-4C76-B27B-A4F43A9FCF2C}.Debug|x64.Build.0 = Debug|x64
+		{55FBD8B4-BFDA-4C76-B27B-A4F43A9FCF2C}.Debug|x86.ActiveCfg = Debug|Win32
+		{55FBD8B4-BFDA-4C76-B27B-A4F43A9FCF2C}.Debug|x86.Build.0 = Debug|Win32
+		{55FBD8B4-BFDA-4C76-B27B-A4F43A9FCF2C}.Release|x64.ActiveCfg = Release|x64
+		{55FBD8B4-BFDA-4C76-B27B-A4F43A9FCF2C}.Release|x64.Build.0 = Release|x64
+		{55FBD8B4-BFDA-4C76-B27B-A4F43A9FCF2C}.Release|x86.ActiveCfg = Release|Win32
+		{55FBD8B4-BFDA-4C76-B27B-A4F43A9FCF2C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
