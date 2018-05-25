@@ -33,6 +33,13 @@ bool Complex::operator!=(const Complex & c)
 	return !(*this == c);
 }
 
+Complex Complex::operator*() const
+{
+	// The complex conjugate is the same complex number
+	// except the sign is flipped on the imaginary part
+	return Complex(real, -imaginary);
+}
+
 std::ostream & operator<<(std::ostream & out, const Complex & c)
 {
 	out << "(" << c.getReal() << "," << c.getImaginary() << ")";

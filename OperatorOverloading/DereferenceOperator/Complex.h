@@ -22,6 +22,8 @@ public:
 	bool operator==(const Complex & c);
 	bool operator!=(const Complex & c);
 
+	Complex operator*() const;
+
 
 	double getReal() const
 	{
