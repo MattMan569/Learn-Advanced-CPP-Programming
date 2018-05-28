@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ObjectSlicingAndPolymorphis
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AbstractClasses", "AbstractClasses\AbstractClasses.vcxproj", "{28EEDADF-DB27-4C1D-856D-481042B7643B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Functors", "Functors\Functors.vcxproj", "{6986A91A-418C-42AC-AC1D-4CE06748F70A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{28EEDADF-DB27-4C1D-856D-481042B7643B}.Release|x64.Build.0 = Release|x64
 		{28EEDADF-DB27-4C1D-856D-481042B7643B}.Release|x86.ActiveCfg = Release|Win32
 		{28EEDADF-DB27-4C1D-856D-481042B7643B}.Release|x86.Build.0 = Release|Win32
+		{6986A91A-418C-42AC-AC1D-4CE06748F70A}.Debug|x64.ActiveCfg = Debug|x64
+		{6986A91A-418C-42AC-AC1D-4CE06748F70A}.Debug|x64.Build.0 = Debug|x64
+		{6986A91A-418C-42AC-AC1D-4CE06748F70A}.Debug|x86.ActiveCfg = Debug|Win32
+		{6986A91A-418C-42AC-AC1D-4CE06748F70A}.Debug|x86.Build.0 = Debug|Win32
+		{6986A91A-418C-42AC-AC1D-4CE06748F70A}.Release|x64.ActiveCfg = Release|x64
+		{6986A91A-418C-42AC-AC1D-4CE06748F70A}.Release|x64.Build.0 = Release|x64
+		{6986A91A-418C-42AC-AC1D-4CE06748F70A}.Release|x86.ActiveCfg = Release|Win32
+		{6986A91A-418C-42AC-AC1D-4CE06748F70A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
