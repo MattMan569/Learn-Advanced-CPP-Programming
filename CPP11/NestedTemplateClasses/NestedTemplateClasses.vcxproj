@@ -149,6 +149,9 @@
   <ItemGroup>
     <ClCompile Include="NestedTemplateClasses.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ring.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
