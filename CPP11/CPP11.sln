@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntroducingLambdaExpression
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LambdaParametersAndReturnTypes", "LambdaParametersAndReturnTypes\LambdaParametersAndReturnTypes.vcxproj", "{C97FC64A-8095-4D63-895D-1F71B3FD5D05}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LambdaCaptureExpressions", "LambdaCaptureExpressions\LambdaCaptureExpressions.vcxproj", "{B936D8B2-9476-4B89-B918-0A31225C8615}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{C97FC64A-8095-4D63-895D-1F71B3FD5D05}.Release|x64.Build.0 = Release|x64
 		{C97FC64A-8095-4D63-895D-1F71B3FD5D05}.Release|x86.ActiveCfg = Release|Win32
 		{C97FC64A-8095-4D63-895D-1F71B3FD5D05}.Release|x86.Build.0 = Release|Win32
+		{B936D8B2-9476-4B89-B918-0A31225C8615}.Debug|x64.ActiveCfg = Debug|x64
+		{B936D8B2-9476-4B89-B918-0A31225C8615}.Debug|x64.Build.0 = Debug|x64
+		{B936D8B2-9476-4B89-B918-0A31225C8615}.Debug|x86.ActiveCfg = Debug|Win32
+		{B936D8B2-9476-4B89-B918-0A31225C8615}.Debug|x86.Build.0 = Debug|Win32
+		{B936D8B2-9476-4B89-B918-0A31225C8615}.Release|x64.ActiveCfg = Release|x64
+		{B936D8B2-9476-4B89-B918-0A31225C8615}.Release|x64.Build.0 = Release|x64
+		{B936D8B2-9476-4B89-B918-0A31225C8615}.Release|x86.ActiveCfg = Release|Win32
+		{B936D8B2-9476-4B89-B918-0A31225C8615}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
