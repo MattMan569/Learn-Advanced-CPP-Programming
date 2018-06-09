@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ElisionAndOptimization", "E
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConstructorsAndMemory", "ConstructorsAndMemory\ConstructorsAndMemory.vcxproj", "{415D3CD7-6898-4799-BA7F-C06C832E192C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RvaluesAndLvalues", "RvaluesAndLvalues\RvaluesAndLvalues.vcxproj", "{BFA110BB-0AF5-45EF-B67E-78431BA9FE80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{415D3CD7-6898-4799-BA7F-C06C832E192C}.Release|x64.Build.0 = Release|x64
 		{415D3CD7-6898-4799-BA7F-C06C832E192C}.Release|x86.ActiveCfg = Release|Win32
 		{415D3CD7-6898-4799-BA7F-C06C832E192C}.Release|x86.Build.0 = Release|Win32
+		{BFA110BB-0AF5-45EF-B67E-78431BA9FE80}.Debug|x64.ActiveCfg = Debug|x64
+		{BFA110BB-0AF5-45EF-B67E-78431BA9FE80}.Debug|x64.Build.0 = Debug|x64
+		{BFA110BB-0AF5-45EF-B67E-78431BA9FE80}.Debug|x86.ActiveCfg = Debug|Win32
+		{BFA110BB-0AF5-45EF-B67E-78431BA9FE80}.Debug|x86.Build.0 = Debug|Win32
+		{BFA110BB-0AF5-45EF-B67E-78431BA9FE80}.Release|x64.ActiveCfg = Release|x64
+		{BFA110BB-0AF5-45EF-B67E-78431BA9FE80}.Release|x64.Build.0 = Release|x64
+		{BFA110BB-0AF5-45EF-B67E-78431BA9FE80}.Release|x86.ActiveCfg = Release|Win32
+		{BFA110BB-0AF5-45EF-B67E-78431BA9FE80}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
